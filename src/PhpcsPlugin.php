@@ -1,4 +1,5 @@
 <?php
+namespace phptools\composer;
 
 use Composer\Composer;
 use Composer\IO\IOInterface;
