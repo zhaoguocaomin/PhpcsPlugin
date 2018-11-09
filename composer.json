@@ -1,0 +1,10 @@
+{
+    "description": "Composer plugin for code style checking before commit using php-cs-fixer",
+    "name": "phptools/composer-phpcs-plugin",
+    "license": "MIT",
+    "type": "composer-plugin",
+    "require": {
+        "composer-plugin-api": "^1.0",
+        "friendsofphp/php-cs-fixer": "^2.0"
+    },
+}
